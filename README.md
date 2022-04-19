@@ -5,4 +5,6 @@ The reproduction process of this study consists of the following parts: (1) usin
 
 Results of part (1) is presented in the "Fake Claim Classification using BERT-base with CNN.ipynb" file, results of part (2) is presented in "Fake Claim Classification using BERT-base with CNN (max_length = 250).ipynb" and "LIAR_Fake Claim Classification using BERT-base with CNN.ipynb" files. 
 
+The final report of the reproduction and replication works can be viewed in the pdf file in this
+
 This is a project of the course "Reproducibility in Natural Language Processing" at the University of Tuebingen.
